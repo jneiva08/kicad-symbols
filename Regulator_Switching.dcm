@@ -2928,6 +2928,18 @@ K smps buck boost inverting
 F http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF
 $ENDCMP
 #
+$CMP MCP1623T
+D Low-Voltage Input Boost Regulator for PIC MCU, PWM, SOT-23
+K Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf
+$ENDCMP
+#
+$CMP MCP1624T
+D Low-Voltage Input Boost Regulator for PIC MCU, PWM/PFM, SOT-23
+K Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf
+$ENDCMP
+#
 $CMP MCP16301
 D 1A, 4.0 to 30V Input, High Voltage Input integrated switch step-down regulator, SOT-23-6
 K switching buck converter power-supply voltage regulator
